@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-License-Identifier: Apache-2.0
+    SPDX-FileCopyrightText: 2024 The halogenOS Project
+-->
+<resources>
+    <string name="app_name">Wallpapers</string>
+
+    <string name="rom_wallpapers">halogenOS Wallpapers</string>
+
+    <string name="wallpaper_blue_silk">Blue Silk</string>
+    <string name="wallpaper_purple_edges">Purple Edges</string>
+</resources>

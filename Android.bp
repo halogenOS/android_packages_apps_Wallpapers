@@ -1,0 +1,17 @@
+// SPDX-License-Identifier: Apache-2.0
+// SPDX-FileCopyrightText: 2024 The halogenOS Project
+//
+
+package {
+    default_applicable_licenses: [
+        "Android-Apache-2.0",
+    ],
+}
+
+android_app {
+    name: "Wallpapers",
+    resource_dirs: ["res",],
+    aaptflags: ["--auto-add-overlay",],
+    sdk_version: "system_current",
+    product_specific: true,
+}

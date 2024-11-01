@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-License-Identifier: Apache-2.0
+    SPDX-FileCopyrightText: 2024 The halogenOS Project
+-->
+<!-- See WallpaperPicker2 src/com/android/wallpaper/module/DefaultCategoryProvider.java#L309 for logic -->
+<wallpapers>
+    <category
+        id="custom_wallpapers"
+        title="@string/rom_wallpapers"
+        priority="2"
+        featured="blue_silk">
+
+        <static-wallpaper
+            id="blue_silk"
+            src="@drawable/blue_silk"
+            title="@string/wallpaper_blue_silk" />
+
+        <static-wallpaper
+            id="purple_edges"
+            src="@drawable/purple_edges"
+            title="@string/wallpaper_purple_edges" />
+
+    </category>
+</wallpapers>
