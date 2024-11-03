@@ -53,5 +53,20 @@
             subtitle1="@string/wallpaper_xos6_to_8_1_subtitle"
             subtitle2="@string/wallpaper_xos6_to_8_1_subtitle2" />
 
+        <static-wallpaper
+            id="sky_full_of_stars"
+            src="@drawable/sky_full_of_stars"
+            title="@string/wallpaper_sky_full_of_stars" />
+
+        <static-wallpaper
+            id="nightsky_aurora"
+            src="@drawable/nightsky_aurora"
+            title="@string/wallpaper_nightsky_aurora" />
+
+        <static-wallpaper
+            id="radial_glow"
+            src="@drawable/radial_glow"
+            title="@string/wallpaper_radial_glow" />
+
     </category>
 </wallpapers>
