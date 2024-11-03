@@ -10,4 +10,16 @@
 
     <string name="wallpaper_blue_silk">Blue Silk</string>
     <string name="wallpaper_purple_edges">Purple Edges</string>
+    <string name="wallpaper_xos14">halogenOS 14</string>
+    <string name="wallpaper_xos13">halogenOS 13</string>
+    <string name="wallpaper_xos13_subtitle">Originally from the Potato Open Sauce Project</string>
+    <string name="wallpaper_xos13_subtitle2">Hue-shifted by 24%</string>
+    <string name="wallpaper_xos12_1">halogenOS 12.1</string>
+    <string name="wallpaper_xos12_1_subtitle">Originally from the Potato Open Sauce Project</string>
+    <string name="wallpaper_xos12_1_subtitle2">Hue-shifted by 32%</string>
+    <string name="wallpaper_xos12_0">halogenOS 12.0</string>
+    <string name="wallpaper_xos12_0_subtitle">Originally from the Potato Open Sauce Project</string>
+    <string name="wallpaper_xos6_to_8_1">halogenOS 6.0</string>
+    <string name="wallpaper_xos6_to_8_1_subtitle">The original, where it all started</string>
+    <string name="wallpaper_xos6_to_8_1_subtitle2">Used up to halogenOS 8.1</string>
 </resources>

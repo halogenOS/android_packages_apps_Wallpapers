@@ -21,5 +21,37 @@
             src="@drawable/purple_edges"
             title="@string/wallpaper_purple_edges" />
 
+        <static-wallpaper
+            id="xos14"
+            src="@drawable/xos14"
+            title="@string/wallpaper_xos14" />
+
+        <static-wallpaper
+            id="xos13"
+            src="@drawable/xos13"
+            title="@string/wallpaper_xos13"
+            subtitle1="@string/wallpaper_xos13_subtitle"
+            subtitle2="@string/wallpaper_xos13_subtitle2" />
+
+        <static-wallpaper
+            id="xos12_1"
+            src="@drawable/xos12_1"
+            title="@string/wallpaper_xos12_1"
+            subtitle1="@string/wallpaper_xos12_1_subtitle"
+            subtitle2="@string/wallpaper_xos12_1_subtitle2" />
+
+        <static-wallpaper
+            id="xos12_0"
+            src="@drawable/xos12_0"
+            title="@string/wallpaper_xos12_0"
+            subtitle1="@string/wallpaper_xos12_0_subtitle" />
+
+        <static-wallpaper
+            id="xos6_to_8_1"
+            src="@drawable/xos6_to_8_1"
+            title="@string/wallpaper_xos6_to_8_1"
+            subtitle1="@string/wallpaper_xos6_to_8_1_subtitle"
+            subtitle2="@string/wallpaper_xos6_to_8_1_subtitle2" />
+
     </category>
 </wallpapers>
